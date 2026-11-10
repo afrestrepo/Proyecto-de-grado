@@ -1,0 +1,50 @@
+=== MÉTRICAS PARA MODELO: llama3.2:3b ===
+    Ejecución #1
+    Iteraciones de Prompt: 5
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 5630.48 ms
+    - Respuestas válidas: 256/69 (371.01%)
+    - Errores totales: 89
+    - Arrays de 23: 75
+    - Arrays <23: 11
+    - Arrays >24: 3
+=== MÉTRICAS PARA MODELO: llama3.2:3b ===
+    Ejecución #1
+    Iteraciones de Prompt: 1
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 408.37 ms
+    - Respuestas válidas: 53/69 (76.81%)
+    - Errores totales: 16
+    - Arrays de 23: 16
+    - Arrays <23: 0
+    - Arrays >24: 0
+=== MÉTRICAS PARA MODELO: llama3.2:3b ===
+    Ejecución #1
+    Iteraciones de Prompt: 1
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 406.39 ms
+    - Respuestas válidas: 55/69 (79.71%)
+    - Errores totales: 14
+    - Arrays de 23: 13
+    - Arrays <23: 1
+    - Arrays >24: 0
+=== MÉTRICAS PARA MODELO: llama3.2:3b ===
+    Ejecución #1
+    Iteraciones de Prompt: 51
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 370.55 ms
+    - Respuestas válidas: 2699/69 (3911.59%)
+    - Errores totales: 820
+    - Arrays de 23: 723
+    - Arrays <23: 86
+    - Arrays >24: 11
+=== MÉTRICAS PARA MODELO: llama3.2:3b ===
+    Ejecución #1
+    Iteraciones de Prompt: 501
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 376.48 ms
+    - Respuestas válidas: 26751/69 (38769.57%)
+    - Errores totales: 7818
+    - Arrays de 23: 6755
+    - Arrays <23: 920
+    - Arrays >24: 143

@@ -1,0 +1,40 @@
+=== MÉTRICAS PARA MODELO: mixtral:8x7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 1
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 210.63 ms
+    - Respuestas válidas: 0/69 (0.00%)
+    - Errores totales: 69
+    - Arrays de 23: 0
+    - Arrays <23: 69
+    - Arrays >24: 0
+=== MÉTRICAS PARA MODELO: mixtral:8x7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 1
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 209.63 ms
+    - Respuestas válidas: 0/69 (0.00%)
+    - Errores totales: 69
+    - Arrays de 23: 0
+    - Arrays <23: 69
+    - Arrays >24: 0
+=== MÉTRICAS PARA MODELO: mixtral:8x7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 51
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 207.36 ms
+    - Respuestas válidas: 0/69 (0.00%)
+    - Errores totales: 3519
+    - Arrays de 23: 0
+    - Arrays <23: 3519
+    - Arrays >24: 0
+=== MÉTRICAS PARA MODELO: mixtral:8x7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 501
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 204.68 ms
+    - Respuestas válidas: 0/69 (0.00%)
+    - Errores totales: 34569
+    - Arrays de 23: 0
+    - Arrays <23: 34569
+    - Arrays >24: 0

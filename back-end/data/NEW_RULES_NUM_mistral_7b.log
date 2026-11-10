@@ -1,0 +1,87 @@
+5
+=== MÉTRICAS PARA MODELO: mistral:7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 1
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 32099.27 ms
+    - Respuestas válidas: 28/69 (40.58%)
+    - Errores totales: 41
+    - Arrays de 23: 41
+    - Arrays <23: 0
+    - Arrays >24: 0
+
+=== MÉTRICAS PARA MODELO: mistral:7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 5
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 12142.60 ms
+    - Respuestas válidas: 131/345 (37.97%)
+    - Errores totales: 214
+    - Arrays de 23: 211
+    - Arrays <23: 2
+    - Arrays >24: 1
+
+=== MÉTRICAS PARA MODELO: mistral:7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 500
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 1277.66 ms
+    - Respuestas válidas: 12925/34500 (18731.88%)
+    - Errores totales: 21575
+    - Arrays de 23: 21361
+    - Arrays <23: 182
+    - Arrays >24: 32
+
+=== MÉTRICAS PARA MODELO: mistral:7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 500
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 1042.12 ms
+    - Respuestas válidas: 13150/34500 (19057.97%)
+    - Errores totales: 21350
+    - Arrays de 23: 21151
+    - Arrays <23: 166
+    - Arrays >24: 33
+
+=== MÉTRICAS PARA MODELO: mistral:7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 500
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 508.02 ms
+    - Respuestas válidas: 13020/34500 (37.74%)
+    - Errores totales: 21480/34500 (62.26%)
+    - Arrays de 23: 21251/34500 (61.60%)
+    - Arrays <23: 199/34500 (0.58%)
+    - Arrays >24: 30 (0.08%)
+
+=== MÉTRICAS PARA MODELO: mistral:7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 100
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 385.31 ms
+    - Respuestas válidas: 2572/6900 (37.27%)
+    - Errores totales: 4328/6900 (62.72%)
+    - Arrays de 23: 4286/6900 (62.11%)
+    - Arrays <23: 40/6900 (0.58%)
+    - Arrays >24: 2/6900 (0.03%)
+
+=== MÉTRICAS PARA MODELO: mistral:7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 51
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 384.29 ms
+    - Respuestas válidas: 1339/69 (1940.58%)
+    - Errores totales: 2180
+    - Arrays de 23: 2164
+    - Arrays <23: 14
+    - Arrays >24: 2
+=== MÉTRICAS PARA MODELO: mistral:7b ===
+    Ejecución #1
+    Iteraciones de Prompt: 501
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 385.03 ms
+    - Respuestas válidas: 12961/69 (18784.06%)
+    - Errores totales: 21608
+    - Arrays de 23: 21424
+    - Arrays <23: 161
+    - Arrays >24: 23

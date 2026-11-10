@@ -1,0 +1,20 @@
+=== MÉTRICAS PARA MODELO: gemma3:12b ===
+    Ejecución #1
+    Iteraciones de Prompt: 1
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 1107.87 ms
+    - Respuestas válidas: 47/69 (68.12%)
+    - Errores totales: 22
+    - Arrays de 23: 0
+    - Arrays <23: 0
+    - Arrays >24: 22
+=== MÉTRICAS PARA MODELO: gemma3:12b ===
+    Ejecución #1
+    Iteraciones de Prompt: 501
+    - Amenazas procesadas: 69
+    - Tiempo promedio por iteración: 987.32 ms
+    - Respuestas válidas: 23029/69 (33375.36%)
+    - Errores totales: 11540
+    - Arrays de 23: 0
+    - Arrays <23: 0
+    - Arrays >24: 11540
